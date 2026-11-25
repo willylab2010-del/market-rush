@@ -76,6 +76,16 @@ Open `http://localhost:8000`. Add `?phone` for the phone mode (no trees, no shad
 - WASD / arrows move or drive, `Shift` boost, `Space` jump / ascend, `B` horn, `V` cycle camera, `M` map, `N` sound, `H` hide HUD
 - Mouse or touch to look around
 
+## Screenshots
+
+| Golden hour from the air | Balogun Market Crossroads at twilight |
+|---|---|
+| ![Helicopter at golden hour](docs/heli-golden.png) | ![Balogun Market Crossroads at twilight](docs/ts-twilight.png) |
+
+| Danfo-style cab at night | Phone mode |
+|---|---|
+| ![Car at night](docs/car-night.png) | ![Phone mode](docs/iphone-probe.png) |
+
 ## Licence and data
 
 Code: MIT. This repository is a fork of [mattiaongit/slop-newyork-mini](https://github.com/mattiaongit/slop-newyork-mini),
