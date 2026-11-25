@@ -76,6 +76,12 @@ Open `http://localhost:8000`. Add `?phone` for the phone mode (no trees, no shad
 - WASD / arrows move or drive, `Shift` boost, `Space` jump / ascend, `B` horn, `V` cycle camera, `M` map, `N` sound, `H` hide HUD
 - Mouse or touch to look around
 
+## Feature reel
+
+[Watch the 25-second feature reel (MP4)](docs/market-rush-features.mp4)
+
+<video controls playsinline width="360" src="docs/market-rush-features.mp4"></video>
+
 ## Screenshots
 
 | Golden hour from the air | Balogun Market Crossroads at twilight |
